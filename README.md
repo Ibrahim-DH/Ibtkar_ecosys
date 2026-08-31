@@ -175,7 +175,12 @@ Saudi Arabia
 *Inquiries: Connect via email, for academic research collaborations, M.Sc. thesis sponsorship, or institutional pilot briefings.*
 
 ---
+## Rleases 
+Windows: `https://github.com/Ibrahim-DH/ibtkar/releases/latest/download/ibtkar-v1.0.0-windows-x86_64.zip`
 
+Linux: `https://github.com/Ibrahim-DH/ibtkar/releases/latest/download/ibtkar-v1.0.0-linux-x86_64.tar.gz`
+
+---
 ## License
 
 * **Ibtkar Compiler & Standard Library:** To be released under the [MIT License](LICENSE) in September 2026.
