@@ -176,7 +176,7 @@ Saudi Arabia
 
 ---
 ## Rleases 
-Windows: `https://github.com/Ibrahim-DH/ibtkar/releases/latest/download/ibtkar-v1.0.0-windows-x86_64.zip`
+Windows: `[https://github.com/Ibrahim-DH/ibtkar/releases/latest/download/ibtkar-v1.0.0-windows-x86_64.zip](https://github.com/Ibrahim-DH/Ibtkar_ecosys/releases/download/beta/ibtkar-v1.0.0-linux-x86_64.tar.gz)`
 
 Linux: `https://github.com/Ibrahim-DH/ibtkar/releases/latest/download/ibtkar-v1.0.0-linux-x86_64.tar.gz`
 
