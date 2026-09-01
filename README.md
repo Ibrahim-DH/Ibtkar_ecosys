@@ -176,7 +176,7 @@ Saudi Arabia
 
 ---
 ## Rleases 
-* For `Windows` or `Linux` install the language (beta version) installer from [Here](https://github.com/Ibrahim-DH/Ibtkar_ecosys/releases/tag/beta).
+* For `Windows` or `Linux` install the language (beta version) installer from [HERE](https://github.com/Ibrahim-DH/Ibtkar_ecosys/releases/tag/beta).
 
 * On `Windows` the `IDE` and the `terminal` are available from [HERE](https://www.sendgb.com/kYt4OF3j70J).
 ---
