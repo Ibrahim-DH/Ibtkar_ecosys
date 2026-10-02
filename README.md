@@ -16,18 +16,8 @@
     <img width="1911" height="922" alt="hero" src="https://github.com/user-attachments/assets/e9f273b9-0f42-4141-a0c8-cb8d19c27e1b" />
 </div>
 
----
-
-
-> ### Repository Status: LEAP 2026 Showcase & Phased Release
-> The Ibtkar compiler codebase is currently under **private evaluation and technical briefing** for the **LEAP 2026 Technology Conference (Aug 31 – Sep 3, 2026)**.
-> 
-> * **Public Open-Source Unlock Date:** **September 2026**
-> * **What will be unlocked:** Full compiler frontend (Lexer, Pratt Parser), AST, Tree-Walk Interpreter, Rust Transpiler backend, Standard Library, and CLI binaries under the **MIT License**.
-> * **Live Inquiries:** For academic evaluation, thesis sponsorship, or institutional inquiries during LEAP, you contact can **Ibrahim Al Dhuhian** ibrah.dh01@gmail.com or refer to the [Research Monograph](https://zenodo.org/records/22159851).
 
 ---
-
 ## Key Highlights
 
 * **Cognitive Ergonomics & Linguistic Parity:** Grounded in Cognitive Load Theory and the *Sapir-Whorf hypothesis*, Ibtkar provides native right-to-left (RTL) Arabic syntax alongside left-to-right (LTR) English syntax compiling down to an identical, Abstract Syntax Tree (AST).
