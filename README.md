@@ -178,11 +178,11 @@ Saudi Arabia
 ## Rleases 
 * For `Windows` or `Linux` install the language (beta version) installer from [HERE](https://github.com/Ibrahim-DH/Ibtkar_ecosys/releases/tag/beta).
 
-* On `Windows` the `IDE` and the `terminal` are available from [HERE](https://www.sendgb.com/RBSgmMtHKRt).
+* On `Windows` the `IDE` and the `terminal` will be available soon.
 ---
 ## License
 
-* **Ibtkar Compiler & Standard Library:** To be released under the [MIT License](LICENSE) in September 2026.
+* **Ibtkar Compiler & Standard Library:** To be released under the [MIT License](LICENSE) in Q4 2026 or Q1 2027.
 * **MatnCode IDE:** Proprietary / Commercial licensing for enterprise, team collaboration, and institutional site deployments.
 
 <div align="center">
